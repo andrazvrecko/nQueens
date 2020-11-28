@@ -1,0 +1,10 @@
+D:\sola\UI\vaja2_UI\vaja2_UI\bin\Debug\vaja2_UI.exe.config
+D:\sola\UI\vaja2_UI\vaja2_UI\bin\Debug\vaja2_UI.exe
+D:\sola\UI\vaja2_UI\vaja2_UI\bin\Debug\vaja2_UI.pdb
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.Form1.resources
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.Properties.Resources.resources
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.csproj.GenerateResource.cache
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.csproj.CoreCompileInputs.cache
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.exe
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.pdb
+D:\sola\UI\vaja2_UI\vaja2_UI\obj\Debug\vaja2_UI.csprojAssemblyReference.cache
